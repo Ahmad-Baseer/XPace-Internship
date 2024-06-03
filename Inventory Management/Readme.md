@@ -1,4 +1,4 @@
-# Project Name
+# Inventory Management
 
 The objective of this project was to develop a Python-based inventory management system to manage the company's stock efficiently. The system needed to include functionalities for adding, removing, updating, searching, displaying, saving, and loading inventory items.
 
@@ -12,16 +12,17 @@ The objective of this project was to develop a Python-based inventory management
 1. Clone the repository to your local machine (if you haven't already):
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone [https://github.com/yourusername/your-repository.git](https://github.com/Ahmad-Baseer/XPace-Internship.git)
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd Inventory Management
     ```
+    Or download the specific folder manually through GitHub UI.
 
-3. Activate a virtual environment (optional but recommended):
+3. Activate the virtual environment (optional but recommended):
 
     ```bash
     # On Windows
@@ -39,11 +40,7 @@ The objective of this project was to develop a Python-based inventory management
 
 ## Usage
 
-1. Run the code:
-
-    ```bash
-    python your_script.py
-    ```
+1. Run the Jupyter Notebook:
 
 2. Follow the on-screen instructions or check the terminal for output.
 
@@ -54,7 +51,3 @@ To reproduce the results:
 1. Ensure the virtual environment is activated.
 
 2. Run the code as described in the "Usage" section.
-
-## Additional Notes
-
-Include any additional notes or details about the project, such as how to interpret the results, known issues, or troubleshooting tips.
