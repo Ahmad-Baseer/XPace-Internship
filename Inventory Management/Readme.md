@@ -12,7 +12,7 @@ The objective of this project was to develop a Python-based inventory management
 1. Clone the repository to your local machine (if you haven't already):
 
     ```bash
-    git clone [https://github.com/yourusername/your-repository.git](https://github.com/Ahmad-Baseer/XPace-Internship.git)
+    git clone https://github.com/Ahmad-Baseer/XPace-Internship.git
     ```
 
 2. Navigate to the project directory:
@@ -20,7 +20,6 @@ The objective of this project was to develop a Python-based inventory management
     ```bash
     cd Inventory Management
     ```
-    Or download the specific folder manually through GitHub UI.
 
 3. Activate the virtual environment (optional but recommended):
 
