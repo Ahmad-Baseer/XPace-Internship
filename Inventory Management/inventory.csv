@@ -1,0 +1,21 @@
+Item ID,Item Name,Quantity,Price,Category
+1,Laptop,10,999.99,Electronics
+2,Smartphone,25,599.99,Electronics
+3,Office Chair,15,199.99,Furniture
+4,Desk Lamp,30,29.99,Furniture
+5,Monitor,20,149.99,Electronics
+6,Keyboard,50,49.99,Electronics
+7,Mouse,70,25.99,Electronics
+8,Webcam,40,89.99,Electronics
+9,Desk,10,299.99,Furniture
+10,Headphones,60,79.99,Electronics
+11,Printer,15,149.99,Electronics
+12,Coffee Maker,25,99.99,Appliances
+13,Microwave,10,129.99,Appliances
+14,Bookcase,5,199.99,Furniture
+15,Router,30,59.99,Electronics
+16,Smartwatch,20,199.99,Electronics
+17,Blender,15,49.99,Appliances
+18,Standing Desk,8,499.99,Furniture
+19,Tablet,18,299.99,Electronics
+20,Electric Kettle,22,39.99,Appliances
